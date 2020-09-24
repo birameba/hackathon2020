@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "file.upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload-dir'"
+  },
+  {
+    "name": "app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwtSecret'"
+  },
+  {
+    "name": "app.jwtExpirationInMs",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwtExpirationInMs'"
+  },
+  {
+    "name": "upload.file.extensions",
+    "type": "java.lang.String",
+    "description": "A description for 'upload.file.extensions'"
+  },
+  {
+    "name": "app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwtSecret'"
+  },
+  {
+    "name": "spring.datasource.connectionProperties",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.connectionProperties'"
+  },
+  {
+    "name": "spring.datasource.connectionProperties",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.connectionProperties'"
+  }
+]}
